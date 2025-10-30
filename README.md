@@ -1,4 +1,4 @@
-# 🧰 Arc402 SDK — Developer Toolkit for Solana Adaptive Intelligence
+# 🧰 Arc402 SDK Developer Toolkit for Solana Adaptive Intelligence
 
 <div align="center">
   <img src="https://i.imgur.com/YTVZHOW.png" width="100" alt="Arc402 Logo"/>
